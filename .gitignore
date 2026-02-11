@@ -1,0 +1,2 @@
+# Blob / uploaded binary data (often large; do not commit)
+backend/blob_data/
